@@ -19,7 +19,6 @@
     "no-cache": true
   },
   "scripts": {
-    
     "gulp": "gulp",
     "pregulp": "npm i",
     "rm": "rm -fr dist",
