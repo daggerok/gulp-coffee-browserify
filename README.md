@@ -4,7 +4,7 @@ gulp-coffee-browserify [![build](https://travis-ci.org/daggerok/gulp-coffee-brow
 using gulp-coffee with browserify and livereload
 
 ```shell
-npm start
+$ npm start
 ```
 
 **note (for linux users)**
