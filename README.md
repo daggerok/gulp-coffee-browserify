@@ -1,7 +1,7 @@
 gulp-coffee-browserify [![build](https://travis-ci.org/daggerok/gulp-coffee-browserify.svg?branch=master)](https://travis-ci.org/daggerok/gulp-coffee-browserify)
 =============
 
-using gulp-coffee with browserify
+using gulp-coffee with browserify and livereload
 
 ```shell
 npm test

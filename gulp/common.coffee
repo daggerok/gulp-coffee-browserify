@@ -8,11 +8,10 @@ module.exports  =
   sources:        require 'vinyl-source-stream'
   cssnano:        require 'gulp-cssnano'
   concat:         require 'gulp-concat'
-  server:         require 'gulp-server-livereload'
+  livereload:     require 'gulp-livereload'
   handle:         handle
   debug:          true
   srcDir:         srcDir
-  port:           3000
   buildDir:       'dist'
   mainCss:        mainCss
   mainCoffee:     'main.coffee'
